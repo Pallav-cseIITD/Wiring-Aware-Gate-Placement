@@ -1,0 +1,22 @@
+g1 6 5
+pins g1 0 1 0 3 6 4 6 2
+g2 3 7
+pins g2 0 0 0 5 3 5 3 1
+g3 5 6
+pins g3 0 0 5 2 5 6 0 4
+g4 4 3
+pins g4 0 0 0 2 4 1 0 1
+g5 7 4
+pins g5 0 0 0 2 7 4 0 3
+wire g1.p1 g3.p1
+wire g1.p2 g5.p1
+wire g1.p3 g4.p3
+wire g1.p4 g2.p2
+wire g2.p1 g4.p1
+wire g2.p2 g3.p3
+wire g2.p3 g1.p2
+wire g3.p1 g4.p2
+wire g3.p4 g5.p2
+wire g4.p3 g5.p1
+wire g5.p2 g1.p4
+wire g4.p4 g3.p2

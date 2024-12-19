@@ -1,0 +1,7 @@
+bounding_box 11 8
+g1 6 0
+g2 0 1
+g3 4 2
+g4 8 3
+g5 6 3
+wire_length 10

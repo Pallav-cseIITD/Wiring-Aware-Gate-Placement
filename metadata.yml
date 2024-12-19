@@ -1,0 +1,14 @@
+---
+:id: 274874570
+:submitters:
+- :name: Shreeraj Jambhale
+  :email: cs5230048@cse.iitd.ac.in
+- :name: Pallav Kamad
+  :email: cs5231067@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-10-05 17:35:32.202254000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-10-05 10:35:32.202254000 Z
+:status: processed
+:score: 98.0
